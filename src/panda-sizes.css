@@ -1,7 +1,7 @@
 :root {
-  --size-md: 28rem;
-  --size-lg: 32rem;
-  --size-xl: 36rem;
+  --size-md:  28rem;
+  --size-lg:  32rem;
+  --size-xl:  36rem;
   --size-2xl: 42rem;
   --size-3xl: 48rem;
   --size-4xl: 56rem;
@@ -9,8 +9,4 @@
   --size-6xl: 72rem;
   --size-7xl: 80rem;
   --size-8xl: 90rem;
-  --size-full: 100%;
-  --size-min: min-content;
-  --size-max: max-content;
-  --size-fit: fit-content;
 }
